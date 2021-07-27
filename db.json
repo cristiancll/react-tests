@@ -1,0 +1,61 @@
+{
+  "account": {
+    "balance": 1000
+  },
+  "transactions": [
+    {
+      "value": 10,
+      "transaction": "withdrawn",
+      "date": "10/08/2020",
+      "id": 1
+    },
+    {
+      "transaction": "deposit",
+      "value": 20,
+      "date": "26/09/2020",
+      "id": 2
+    },
+    {
+      "transaction": "withdrawn",
+      "value": "10",
+      "date": "27/07/2021",
+      "id": 3
+    },
+    {
+      "transaction": "withdrawn",
+      "value": "10",
+      "date": "27/07/2021",
+      "id": 4
+    },
+    {
+      "transaction": "withdrawn",
+      "value": "10",
+      "date": "27/07/2021",
+      "id": 5
+    },
+    {
+      "transaction": "withdrawn",
+      "value": "10",
+      "date": "27/07/2021",
+      "id": 6
+    },
+    {
+      "transaction": "withdrawn",
+      "value": "10",
+      "date": "27/07/2021",
+      "id": 7
+    },
+    {
+      "transaction": "withdrawn",
+      "value": "10",
+      "date": "27/07/2021",
+      "id": 8
+    },
+    {
+      "transaction": "withdrawn",
+      "value": "10",
+      "date": "27/07/2021",
+      "id": 9
+    }
+  ]
+}
